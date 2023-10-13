@@ -1,4 +1,4 @@
-module github.com/jh125486/CSCE4600
+module github.com/anniegomezz/4600Project1
 
 go 1.19
 
